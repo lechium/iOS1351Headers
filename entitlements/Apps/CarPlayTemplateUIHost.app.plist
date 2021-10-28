@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CARAppHidden</key>
+	<true/>
+	<key>SBStarkCapable</key>
+	<true/>
+	<key>com.apple.QuartzCore.displayable-context</key>
+	<true/>
+	<key>com.apple.backboard.client</key>
+	<true/>
+	<key>com.apple.frontboard.launchapplications</key>
+	<true/>
+	<key>com.apple.launchservices.clearadvertisingid</key>
+	<true/>
+	<key>com.apple.private.CarPlaySupport.banner-source</key>
+	<true/>
+	<key>com.apple.private.carkit</key>
+	<true/>
+	<key>com.apple.private.hid.client.event-dispatch</key>
+	<true/>
+	<key>com.apple.runningboard.hereditarygrantoriginator</key>
+	<true/>
+	<key>com.apple.runningboard.launchprocess</key>
+	<true/>
+	<key>com.apple.runningboard.terminateprocess</key>
+	<true/>
+	<key>com.apple.security.exception.mach-lookup.global-name</key>
+	<array>
+		<string>com.apple.CarPlaySupport.banner-source</string>
+	</array>
+	<key>com.apple.springboard-ui.client</key>
+	<true/>
+</dict>
+</plist>

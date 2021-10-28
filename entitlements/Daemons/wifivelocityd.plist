@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.accounts.appleaccount.fullaccess</key>
+	<true/>
+	<key>com.apple.bluetooth.system</key>
+	<true/>
+	<key>com.apple.corecapture.manager-access</key>
+	<true/>
+	<key>com.apple.private.ids.messaging</key>
+	<array>
+		<string>com.apple.private.alloy.wifivelocity</string>
+	</array>
+	<key>com.apple.private.ids.messaging.urgent-priority</key>
+	<array>
+		<string>com.apple.private.alloy.wifivelocity</string>
+	</array>
+	<key>com.apple.private.logging.admin</key>
+	<true/>
+	<key>com.apple.private.sysdiagnose</key>
+	<true/>
+	<key>com.apple.security.network.client</key>
+	<true/>
+	<key>com.apple.security.network.server</key>
+	<true/>
+	<key>com.apple.wifi.manager-access</key>
+	<true/>
+	<key>com.apple.wlan.authentication</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>com.apple.coreservices.appleidauthentication</string>
+		<string>com.apple.coreservices.appleidauthentication.keychainaccessgroup</string>
+		<string>com.apple.sharing.appleidauthentication</string>
+	</array>
+</dict>
+</plist>

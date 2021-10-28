@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CanInheritApplicationStateFromOtherProcesses</key>
+	<true/>
+	<key>com.apple.AXUIViewService</key>
+	<true/>
+	<key>com.apple.QuartzCore.secure-mode</key>
+	<true/>
+	<key>com.apple.UIKit.vends-view-services</key>
+	<true/>
+	<key>com.apple.VoiceOverTouch</key>
+	<true/>
+	<key>com.apple.private.security.container-required</key>
+	<true/>
+	<key>com.apple.security.exception.shared-preference.read-write</key>
+	<array>
+		<string>com.apple.Accessibility</string>
+		<string>com.apple.Accessibility.GuidedAccess</string>
+	</array>
+	<key>com.apple.springboard.activateRemoteAlert</key>
+	<true/>
+	<key>com.apple.springboard.appbackgroundstyle</key>
+	<true/>
+	<key>com.apple.springboard.remote-alert</key>
+	<false/>
+	<key>platform-application</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>com.apple.SensorKit</string>
+	<key>com.apple.frontboard.launchapplications</key>
+	<true/>
+	<key>com.apple.multitasking.systemappassertions</key>
+	<true/>
+	<key>com.apple.nano.nanoregistry</key>
+	<true/>
+	<key>com.apple.private.MobileGestalt.AllowedProtectedKeys</key>
+	<array>
+		<string>UniqueDeviceID</string>
+	</array>
+	<key>com.apple.private.ids.messaging</key>
+	<array>
+		<string>com.apple.private.alloy.sensorkitkeys</string>
+		<string>com.apple.private.alloy.sensorkit</string>
+	</array>
+	<key>com.apple.private.ids.messaging.urgent-priority</key>
+	<array>
+		<string>com.apple.private.alloy.sensorkitkeys</string>
+		<string>com.apple.private.alloy.sensorkit</string>
+	</array>
+	<key>com.apple.private.ids.prefer-infrawifi</key>
+	<array>
+		<string>com.apple.private.alloy.sensorkit</string>
+	</array>
+	<key>com.apple.private.tcc.manager</key>
+	<true/>
+	<key>com.apple.rootless.storage.sensorkit</key>
+	<true/>
+	<key>com.apple.security.exception.mach-lookup.global-name</key>
+	<array>
+		<string>com.apple.SBUserNotification</string>
+	</array>
+	<key>com.apple.springboard.opensensitiveurl</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>apple</string>
+	</array>
+	<key>platform-application</key>
+	<true/>
+	<key>seatbelt-profiles</key>
+	<array>
+		<string>sensorkitd</string>
+	</array>
+</dict>
+</plist>

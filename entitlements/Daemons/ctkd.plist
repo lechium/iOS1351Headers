@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.application-identifier</key>
+	<string>com.apple.ctkd</string>
+	<key>com.apple.private.audit.user</key>
+	<true/>
+	<key>com.apple.private.extension-host.ctk-tokens</key>
+	<true/>
+	<key>com.apple.security.smartcard</key>
+	<true/>
+	<key>seatbelt-profiles</key>
+	<array>
+		<string>ctkd</string>
+	</array>
+</dict>
+</plist>
